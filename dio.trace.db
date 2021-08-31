@@ -1,0 +1,6 @@
+2021-08-31 11:11:58 jdbc[26]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "JORNADA_TRABALHO_AUD[*]"; SQL statement:
+JORNADA_TRABALHO_AUD [42000-200]
+2021-08-31 11:12:09 jdbc[26]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "JORNADA_TRABALHO_AUD[*]"; SQL statement:
+JORNADA_TRABALHO_AUD [42000-200]
